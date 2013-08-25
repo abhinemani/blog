@@ -13,19 +13,17 @@
 
 {% include navigation.html %}
 
-<div class="image-wrap">
-  <div class="headline-wrap">
-    <h1>{{ page.title }}</h1>
-    {% if page.tagline %}<h2>{{ page.tagline }}</h2>{% endif %}
-  </div><!--/ .headline-wrap -->
+<!--<div class="image-wrap">
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image">
-</div><!-- /.image-wrap -->
+</div>-->
 
 <div class="article-author-top">
   {% include author-bio.html %}
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+  <p>I'm into technology, government, and interesting ideas. For over three years, I've been helping run a non-profit called <a href="http://codeforamerica.org">Code for America</a> whose interesting idea is that technology can change government.</p>
+  <p>I try to write (poorly) to write things down. When I do, however, I'll post <a href="/articles">them here</a>, along with any other relevant information; the standard stuff: <a href="/bio">bio</a>, <a href="/talks">talks</a>, <a href="/press">press mentions</a>, etc. For anything else, best just to ask: <a href="http://twitter.com/abhinemani">@abhinemani</a>.</p>
   <a href="{{ site.url}}/articles" class="btn btn-small pull-right">View all articles</a>
   <h3>Latest Articles</h3>
   <hr />
