@@ -23,11 +23,11 @@
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   <p>I'm into technology, government, and interesting ideas. For over three years, I've been helping run a non-profit called <a href="http://codeforamerica.org">Code for America</a> whose interesting idea is that technology can change government.</p>
-  <p>I try to write (poorly) to write things down. When I do, however, I'll post <a href="/articles">them here</a>, along with any other relevant information; the standard stuff: <a href="/bio">bio</a>, <a href="/talks">talks</a>, <a href="/press">press mentions</a>, etc. For anything else, best just to ask: <a href="http://twitter.com/abhinemani">@abhinemani</a>.</p>
+  <p>I (unsuccessfully) try to write to write things down. When I do, however, I'll post <a href="/articles">them here</a>, along with any other relevant information; the standard stuff: <a href="/bio">bio</a>, <a href="/talks">talks</a>, <a href="/press">press mentions</a>, etc. For anything else, best just to ask: <a href="http://twitter.com/abhinemani">@abhinemani</a>.</p>
   <a href="{{ site.url}}/articles" class="btn btn-small pull-right">View all articles</a>
-  <h3>Latest Articles</h3>
+  <h3>Recent Posts</h3>
   <hr />
-  {% for post in site.categories.articles limit:5 %}    
+  {% for post in site.categories.articles limit:10 %}    
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
     <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
