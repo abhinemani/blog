@@ -2,7 +2,7 @@ title:            Abhi Nemani
 tagline:          
 description:      
 #Comment out url when working locally to resolve base urls correctly
-url:              /blog/
+#url:              /blog/
 
 # Owner/author information
 owner:
@@ -13,8 +13,8 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        abhinemani
   facebook:       anemani10
-  github:         
-  linkedin:       
+  github:         abhinemani
+  linkedin:       anemani
   instagram:      
   lastfm:         
   tumblr:         
@@ -30,12 +30,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Home
+    url: /  
   - title: About
     url: /about
   - title: Blog
     url: /blog
-  - title: Press
-    url: /press
   - title: Talks
     url: /about#talks
 #  - title: Made Mistakes
