@@ -1,9 +1,9 @@
 ---
 layout: press-index
 permalink: /press/index.html
-title: Articles
-tagline: A List of Posts
+title: Press Mentions
+tagline: Times When Things I Said Were Printed on Paper (On not paper)
 tags: [blog, graphic design]
 image:
-  feature: texture-feature-03.jpg
+  feature: map.png
 ---

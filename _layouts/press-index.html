@@ -26,6 +26,7 @@
 </div>
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
+	<p>If you are looking for insight on the issues of government technology, innovation, or civic engagement, you're welcome to <a href="mailto:abhinemani@gmail.com">drop me a line</a>. Here are some recent comments: </p>
   {% for post in site.categories.press %}  
   {% unless post.next %}
     <h3>{{ post.date | date: '%Y' }}</h3>
@@ -38,10 +39,7 @@
         <hr />
       {% endif %}
     {% endunless %}
-    <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-      <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-    </article>
+      <a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.thumb }}" alt="{{ page.title }} image" width="100px" style="float: left; margin: 10px;"></a>
   {% endfor %}
 </div><!-- /#index -->
 
