@@ -2,10 +2,10 @@
 layout: page
 permalink: /about/index.html
 title: Abhi Nemani
-tagline: Minimal Mistakes, a Jekyll Theme
+tagline: Poor Man's Hacker, Amatuer Mini-Golf
 tags: [about, Abhi Nemani, Code for America, pandas]
 image:
-  feature: texture-feature-02.jpg
+  feature: shuttle.png
 ---
 
 <p>Abhi Nemani is the Co-Executive Director (Interim) at Code for America, a national non-profit dedicated to reinventing government for the 21st century. Abhi has led CfA’s strategic development and growth, including the development of multiple new programs including the launch of a first-of-its-kind civic startup accelerator and the CfA Peer Network, designed to connect cities to help them work together. Under Abhi's direction, CfA's national outreach and awareness campaigns have been recognized in the New York Times, Mashable, and CNN, and he has been featured as a speaker at SxSW, the World Bank, and various universities and conferences around the world.</p>
