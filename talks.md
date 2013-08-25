@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: page-inline
 permalink: /talks/index.html
-title: Speaking Engagements
-tagline: Poor Man's Hacker, Amatuer Mini-Golf
+title: Talks
+tagline: When I speak aloud, publicly
 tags: [about, Abhi Nemani, Code for America, pandas]
+image:
+  feature: budget.png
 ---
 
 <img src="../images/notebook.png">
