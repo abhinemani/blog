@@ -5,11 +5,12 @@ title: Abhi Nemani
 tagline: Poor Man's Hacker, Amatuer Mini-Golf
 tags: [about, Abhi Nemani, Code for America, pandas]
 image:
-  feature: shuttle.png
+  feature: sunset.jpg
 ---
 
-<p>Abhi Nemani is the Co-Executive Director (Interim) at Code for America, a national non-profit dedicated to reinventing government for the 21st century. Abhi has led CfA’s strategic development and growth, including the development of multiple new programs including the launch of a first-of-its-kind civic startup accelerator and the CfA Peer Network, designed to connect cities to help them work together. Under Abhi's direction, CfA's national outreach and awareness campaigns have been recognized in the New York Times, Mashable, and CNN, and he has been featured as a speaker at SxSW, the World Bank, and various universities and conferences around the world.</p>
-<p>Prior to CfA, Abhi managed the multiple research teams at the Rose Institute to increase transparency in local government using technology, and with Google, he pioneered an innovative strategy to leverage social media for consumer engagement. He graduated magna cum laude from Claremont McKenna College with a honors degree in Philosophy, Politics, and Economics (PPE).</p>
+<p>Abhi Nemani is a writer, speaker, organizer, and technologist. For the past four years, he has helped build the national non-profit, Code for America, a technology organization dedicated to reinventing government for the 21st century. Abhi has led CfA’s strategic development, including the development of multiple new initiatives designed for scaling the organization's impact, including the launch of a first-of-its-kind civic startup accelerator and a collaborative network for hundreds of government innovators. Currently serving as Co-Executive Director, Abhi leads growth and product strategy.</p>
+<p>Prior to CfA, Abhi worked for Google, developing social engagement strategies, the Rose Institute, managing multiple local government transparency research teams, and the Center for American Progress, focusing on connecting a national network of public-minded students. He graduated magna cum laude from Claremont McKenna College with a honors degree in Philosophy, Politics, and Economics (PPE), and studied political philosophy and rhetoric as the University of Oxford.</p>
+<p>Abhi's work has been featured in the New York Times, Government Technology, and Forbes, and he has been featured as a speaker at SxSW, the World Bank, and various universities and conferences around the world.</p>
 
 <hr>
 <a name="#talks"></a>
