@@ -26,4 +26,6 @@ image:
 
 <em>If necessary, you can download a <a href="/images/headshot.jpg">small, square headshot (300kb)</a> or a <a href="/images/headshot-large.jpg">larger, high-res (15MB)</a>.</em>
 
+<hr>
+
 <a markdown="0" href="mailto:abhinemani@gmail.com" class="btn">Drop me a line</a>
