@@ -34,10 +34,10 @@ links:
     url: /  
   - title: About
     url: /about
+  - title: Press
+    url: /press
   - title: Blog
     url: /blog
-  - title: In the News
-    url: /press
   - title: Talks
     url: /talks
 #  - title: Made Mistakes
