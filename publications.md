@@ -1,8 +1,8 @@
 ---
-layout: press-index
-permalink: /press/index.html
-title: Press Mentions
-tagline: Times When Things I Said Were Printed on Paper (On not paper)
+layout: publications-index
+permalink: /publications/index.html
+title: Publications
+tagline: Articles and Essays I've Written Published Elsewhere
 tags: [blog, graphic design]
 image:
   feature: map.png
