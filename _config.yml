@@ -40,6 +40,9 @@ links:
     url: /blog
   - title: Talks
     url: /talks
+  - title: CV
+    url: http://abhinemani.com/cv
+    external: true
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
