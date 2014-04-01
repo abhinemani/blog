@@ -41,8 +41,7 @@ links:
   - title: Talks
     url: /talks
   - title: CV
-    url: http://abhinemani.com/cv
-    external: true
+    url: /cv
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
