@@ -17,7 +17,7 @@ owner:
   linkedin:       anemani
   instagram:      
   lastfm:         
-  tumblr:         
+  tumblr:         abhinemani
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
@@ -40,6 +40,8 @@ links:
     url: /blog
   - title: Talks
     url: /talks
+  - title: CV
+    url: /cv
 #  - title: Made Mistakes
 #    url: http://mademistakes.com
 #    external: true
