@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Neoconservative & Progressive Foreign Policy
+title: A Neoconservative and Progressive Foreign Policy
 categories:
 - Articles
 - Essays
