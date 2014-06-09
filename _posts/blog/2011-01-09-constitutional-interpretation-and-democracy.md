@@ -15,7 +15,6 @@ meta:
   _wp_old_slug: ''
   _thumbnail_id: '41'
 ---
-<img class="size-full wp-image-41" title="scotus" src="http://www.abhinemani.com/wp-content/uploads/2011/01/scotus.jpg" alt="" width="625" height="353" />
 <h3><strong>Identifying the Deep Value in Constitutional Rights</strong></h3>
 Is the text enough? Common textual approaches to constitutional interpretation prioritize the text of the constitution, assuming the legitimacy of that approach. Justice Antonin Scalia expounds—quite vigorously in fact—his brand of textual originalism, but careful analysis and exploration reveals substantial issues with his account, and Professor Ronald Dworkin does not fair much better. Neither fully incorporates a sound theory of democracy in their constitutional theory. Professor Corey Brettschneider’s value theory, though incomplete, begins from the ground up and offers an attractive conception of democracy and a promising system of judicial review.
 
