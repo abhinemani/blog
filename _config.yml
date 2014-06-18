@@ -34,6 +34,9 @@ links:
     url: /  
   - title: About
     url: /about
+  - title: Writing
+    url: http://medium.com/@abhinemani
+    external: true
   - title: Press
     url: /press
   - title: Talks
