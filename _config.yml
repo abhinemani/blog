@@ -36,6 +36,9 @@ links:
     url: /about
   - title: Blog
     url: /blog
+  - title: Writing
+    url: http://medium.com/@abhinemani
+    external: true
   - title: Talks
     url: /about#talks
 #  - title: Made Mistakes
