@@ -34,7 +34,7 @@ image:
 * White House Champions of Change
 * Multiple Knight News Challenge Selections
 
-<em>If necessary, you can download a <a href="/images/headshot.jpg">small, square headshot (300kb)</a> or a <a href="/images/headshot-large.jpg">larger, high-res (15MB)</a>.</em>
+<em>If necessary, you can download a <a href="/images/headshot.jpg">small, square headshot (15kb, 300x300)</a> or a <a href="/images/headshot-large.jpg">larger, high-res (1MB)</a>.</em>
 
 <div style="clear: both;"></div>
 
