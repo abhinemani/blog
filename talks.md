@@ -1,5 +1,5 @@
 ---
-layout: page-inline
+layout: talks
 permalink: /talks/index.html
 title: Talks
 tagline: When I speak aloud, publicly
@@ -15,17 +15,3 @@ image:
 <a name="#talks"></a>
 
 ## A few of the talks I've given: ##
-
-* Claremont McKenna College, <a href="http://vimeo.com/81786078">"Technology and the Liberal Arts"</a>
-* SXSW (Austin, TX), "Hacking for Sustainable Cities"
-* Big Kansas City, <a href="http://www.youtube.com/watch?v=OOh4XVBWWXQ">"Disruption as a Public Service"</a>
-* Making a Difference Asia (Hong Kong), "Civic Startups as Game Changers"
-* Health DataPalooza (Washington DC), "Core Principles of Open Data"
-* Personal Democracy Forum (New York City), "Digital Inclusion and Open Government"
-* Digital Cities (Buenos Aires), "<a href="http://www.slideshare.net/anemani10/a-tale-of-two-cities-digital-cities-buenos-aires">A Tale of Two Cities</a>"
-* Agile Alliance (Nashville, TN), <a href="http://www.agilealliance.org/resources/learning-center/keynote-coding-america-how-agile-and-lean-are-disrupting-government-and-why-they-need">"The Principles of Agile and of Government"</a>
-* Next Generation of Government Leaders (Washington DC), "<a href="http://www.slideshare.net/anemani10/how-to-be-a-poor-mans-hacker">How to be a Poor Man's (Government) Hacker</a>"
-* World Bank (Washington DC), "Spreading Innovation Around the World"
-* InciteXchange (Philadelphia), "<a href="http://www.slideshare.net/anemani10/incitexchange-nemani-feb-16">Redesigning Citizenship</a>"
-
-<a markdown="0" href="mailto:abhinemani@gmail.com" class="btn">Drop me a line</a>
