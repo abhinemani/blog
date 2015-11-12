@@ -37,12 +37,12 @@ links:
   - title: Blog
     url: http://medium.com/@abhinemani
     external: true
-  - title: Press
+  - title: Press Clips
     url: /press
   - title: Talks
     url: /talks
-  - title: Archives
-    url: /blog
+#  - title: Archives
+#    url: /blog
   - title: CV
     url: /cv
 #  - title: Made Mistakes
