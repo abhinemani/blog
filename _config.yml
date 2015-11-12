@@ -1,6 +1,6 @@
 title:            Abhi Nemani
-tagline:          technological optimist and political philosophy nerd. writer, speaker, maker.
-description:      Abhi Nemani is a writer, speaker, organizer, and technologist. He most recently served as the first Chief Data Officer for the City of Los Angeles, where he led the city's efforts to build an open and data-driven LA.
+tagline:          technological optimist and political philosophy nerd.
+description:      Abhi Nemani most recently served as the first Chief Data Officer for the City of Los Angeles
 #Comment out url when working locally to resolve base urls correctly
 url:              http://abhinemani.com
 
@@ -8,14 +8,14 @@ url:              http://abhinemani.com
 owner:
   name:           Abhi Nemani
   avatar:         panda.png
-  bio:            "technological optimist and political philosophy nerd. writer, speaker, maker. "
+  bio:            "technological optimist and political philosophy nerd. writer, speaker, maker."
   email:          abhinemani@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        abhinemani
   facebook:       abhi.nemani
   github:         abhinemani
-  linkedin:       anemani
-  instagram:      
+  linkedin:       abhinemani
+  instagram:      abhinemani
   lastfm:         
   tumblr:         abhinemani
   # For Google Authorship https://plus.google.com/authorship
