@@ -32,9 +32,9 @@ bing_verify:
 links:
   - title: Home
     url: /  
-  - title: About
+  - title: Bio
     url: /about
-  - title: Writing
+  - title: Blog
     url: http://medium.com/@abhinemani
     external: true
   - title: Press
