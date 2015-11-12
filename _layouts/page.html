@@ -27,6 +27,12 @@
     </div><!--/ .headline-wrap -->
     <div class="article-wrap" itemprop="text">
       {{ content }}
+    <footer role="contentinfo">
+      <div class="article-author-bottom">
+		<hr>
+        {% include author-bio.html %}
+      </div>
+    </footer>
     </div><!-- /.article-wrap -->
   </article>
 </div><!-- /#index -->

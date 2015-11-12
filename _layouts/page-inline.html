@@ -27,6 +27,12 @@
 
 <div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
 	{{ content }}
+    <footer role="contentinfo">
+      <div class="article-author-bottom">
+		<hr>
+        {% include author-bio.html %}
+      </div>
+    </footer>
 </div><!-- /#index -->
 
 <div class="footer-wrap">

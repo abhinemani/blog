@@ -2,7 +2,7 @@ title:            Abhi Nemani
 tagline:          technological optimist and political philosophy nerd.
 description:      Abhi Nemani most recently served as the first Chief Data Officer for the City of Los Angeles
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://abhinemani.com
+url:              http://abhinemani.com
 
 # Owner/author information
 owner:
@@ -52,7 +52,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/San_Francisco
 future:      true
-highlighter:    true
+pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
