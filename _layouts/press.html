@@ -23,7 +23,7 @@
   </div>
   <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <div class="headline-wrap">
-	  <img src="{{ site.url }}/images/{{ page.image.thumb }}" alt="{{ page.title }}  image" itemprop="primaryImageOfPage" style="width: 35%; float: right; margin: 1em;">
+	  <a href="{{ page.link }}" target="_blank"><img src="{{ site.url }}/images/{{ page.image.thumb }}" alt="{{ page.title }}  image" itemprop="primaryImageOfPage" style="width: 35%; float: right; margin: 1em;"></a>
     <h5 style="text-transform: uppercase; color: gray;">{{ page.publication }}</h5>
 	  <a target="_blank" href="{{ page.link }}"><h4>{{ page.title }}</h4></a>
     </div><!--/ .headline-wrap -->
