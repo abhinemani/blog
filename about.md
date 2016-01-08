@@ -2,8 +2,9 @@
 layout: page
 permalink: /about/index.html
 title: Abhi Nemani
-tagline: Poor Man's Hacker, Amatuer Mini-Golf
+tagline: Poor Man's Hacker, Amatuer Mini-Golfer
 tags: [about, Abhi Nemani, Code for America, pandas]
+description: Abhi Nemani is a writer, speaker, organizer, and technologist. He most recently served as the first Chief Data Officer for the City of Los Angeles, where he led the city's efforts to build an open and data-driven LA.
 image:
   feature: sunset.jpg
 ---
