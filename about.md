@@ -39,4 +39,4 @@ image:
 
 <div style="clear: both;"></div>
 
-<a markdown="0" href="mailto:abhinemani@gmail.com" class="btn">Drop me a line</a>
+<a markdown="0" href="mailto:abhi.nemani@gmail.com" class="btn" target="_blank">Drop me a line</a>
