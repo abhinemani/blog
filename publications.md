@@ -1,5 +1,5 @@
 ---
-layout: publications-index
+layout: press-index
 permalink: /publications/index.html
 title: Publications
 tagline: Articles and Essays I've Written Published Elsewhere
