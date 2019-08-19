@@ -41,10 +41,8 @@ links:
     url: /press
   - title: Talks
     url: /talks
-#  - title: Archives
-#    url: /blog
   - title: Lectures
-  	url: https://abhinemani.com/civictechcourse/lectures/
+  	url: https://abhinemani.com/civictechcourse/lectures
   - title: CV
     url: /cv
 #  - title: Made Mistakes
