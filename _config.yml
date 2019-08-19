@@ -35,7 +35,7 @@ links:
   - title: Bio
     url: /about
   - title: Blog
-    url: http://medium.com/@abhinemani
+    url: https://medium.com/@abhinemani
     external: true
   - title: Press
     url: /press
@@ -43,6 +43,8 @@ links:
     url: /talks
 #  - title: Archives
 #    url: /blog
+  - title: Lectures
+  	url: https://abhinemani.com/civictechcourse/lectures/
   - title: CV
     url: /cv
 #  - title: Made Mistakes
