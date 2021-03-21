@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cal/index.html
-title: Schedule Some Time
+title: Schedule a Meeting
 tagline: Get time on the books
 tags: [about, Abhi Nemani, Code for America, pandas]
 
