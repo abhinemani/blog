@@ -21,7 +21,7 @@ image:
 
 ## Short Bio
 Abhi Nemani has worked for over a decade at the intersection of public service and technology. Abhi helped build the non-profit [Code for America](https://codeforamerica.org), growing it into a national leader in government tech, and then he was appointed as the first CDO of Los Angeles and CIO of Sacramento. Now, his consultancy, EthosLabs.us, connects entrepreneurs across sectors to develop new approaches for public policy, on issues ranging from criminal justice to public health. Abhi has taught public innovation at the [University of Chicago](https://abhinemani.com/civictechcourse/), and he has been featured as a speaker at SxSW, TEDx, the World Bank, and [numerous convenings](https://abhinemani.com/talks) around the world.
-
+<hr>
 <a name="#honors"></a>
 
 ## Individual Honors & Acknowledgements ##
