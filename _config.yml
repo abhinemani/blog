@@ -33,7 +33,7 @@ links:
 #  - title: Home
 #    url: /  
   - title: Bio
-    url: /about
+    url: /bio
   - title: Blog
     url: https://medium.com/@abhinemani
     external: true
