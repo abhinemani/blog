@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /bio/index.html
 title: Abhi Nemani
 tagline: Poor Man's Hacker, Amatuer Mini-Golfer
 tags: [about, Abhi Nemani, Code for America, pandas]
@@ -17,7 +17,11 @@ image:
 <p>Previously, Abhi worked for Google, the Rose Institute of State and Local Government, and the Center for American Progress. He graduated magna cum laude from Claremont McKenna College with a honors degree in Philosophy, Politics, and Economics (PPE), and studied political philosophy and rhetoric at the University of Oxford.</p>
 <p>Abhi's work <a href="/press">has been featured</a> in the New York Times, Government Technology, Government Executive, and Forbes, and he  <a href="/talks">has been featured as a speaker</a> at SxSW, the World Bank, and various universities and conferences around the world.</p>
 
-<hr>
+<hr><a name="#shortbio"></a>
+
+## Short Bio
+Abhi Nemani has worked for over a decade at the intersection of public service and technology. Abhi helped build the non-profit [Code for America](https://codeforamerica.org), growing it into a national leader in government tech, and then he was appointed as the first CDO of Los Angeles and CIO of Sacramento. Now, his consultancy, EthosLabs.us, connects entrepreneurs across sectors to develop new approaches for public policy, on issues ranging from criminal justice to public health. Abhi has taught public innovation at the [University of Chicago](https://abhinemani.com/civictechcourse/), and he has been featured as a speaker at SxSW, TEDx, the World Bank, and [numerous convenings](https://abhinemani.com/talks) around the world.
+
 <a name="#honors"></a>
 
 ## Individual Honors & Acknowledgements ##
