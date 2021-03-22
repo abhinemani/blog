@@ -9,7 +9,7 @@ image:
   feature: sunset.jpg
 ---
 
-<p><img src="/images/headshot.jpg" width="40%" style="margin:1em; float: right;"> <span id="#shortbio"></span>Abhi Nemani has worked for over a decade at the intersection of public service and technology. Abhi helped build the non-profit [Code for America](https://codeforamerica.org), growing it into a national leader in government tech, and then he was appointed as the first CDO of Los Angeles and CIO of Sacramento. Now, his consultancy, EthosLabs.us, connects entrepreneurs across sectors to develop new approaches for public policy, on issues ranging from criminal justice to public health. Abhi has taught public innovation at the [University of Chicago](https://abhinemani.com/civictechcourse/), and he has been featured as a speaker at SxSW, TEDx, the World Bank, and [numerous convenings](https://abhinemani.com/talks) around the world.</p>
+<p><img src="/images/headshot.jpg" width="40%" style="margin:1em; float: right;"> <span id="#shortbio"></span>Abhi Nemani has worked for over a decade at the intersection of public service and technology. Abhi helped build the non-profit <a href="https://codeforamerica.org">Code for America</a>, growing it into a national leader in government tech, and then he was appointed as the first CDO of Los Angeles and CIO of Sacramento. Now, his consultancy, EthosLabs.us, connects entrepreneurs across sectors to develop new approaches for public policy, on issues ranging from criminal justice to public health. Abhi has taught public innovation at the <a href="https://abhinemani.com/civictechcourse/">University of Chicago</a>, and he has been featured as a speaker at SxSW, TEDx, the World Bank, and <a href="https://abhinemani.com/talks">numerous convenings</a> around the world.</p>
 ## Background
 <p>Abhi Nemani is a writer, speaker, organizer, and technologist.</p>
 <p>He currently runs a GovTech consultancy called <a href="http://ethoslabs.us" target="_blank"><strong>EthosLabs</strong></a>, designed to accelerate good government through great technology, where he has consulted with dozens of cities and startups on growth, product, and innovation. He is also building and teaching a first-of-its-kind <a href="https://abhinemani.com/civictechcourse" target="_blank"><strong>Civic Technology course at the University of Chicago</strong></a>.</p>
@@ -18,10 +18,6 @@ image:
 <p>Abhi has served as a Member of the Board of Directors for the <a href="http://opengovfoundation.org" target="_blank">OpenGov Foundation</a>, a member of the Board of Directors of Data4America, and has served as Innovator-in-Residence at GovDelivery. He is also an advisor and investor in multiple govtech startups, including <a href="https://citygro.ws" target="_blank">CityGrows</a> and <a href="http://spidrtech.com" target="_blank">SPIDR Tech</a>.</p>
 <p>Previously, Abhi worked for Google, the Rose Institute of State and Local Government, and the Center for American Progress. He graduated magna cum laude from Claremont McKenna College with a honors degree in Philosophy, Politics, and Economics (PPE), and studied political philosophy and rhetoric at the University of Oxford.</p>
 <p>Abhi's work <a href="/press">has been featured</a> in the New York Times, Government Technology, Government Executive, and Forbes, and he  <a href="/talks">has been featured as a speaker</a> at SxSW, the World Bank, and various universities and conferences around the world.</p>
-
-<hr>
-
-## Short Bio
 
 <hr>
 <a name="#honors"></a>
